@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>Item.h</url>
+            <bookmark id="1">
+                <name/>
+                <line>17</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Yogi/Documents/NetBeansProjects/YogoHack/main.cpp</file>
+            <file>file:/C:/Users/Yogi/Documents/NetBeansProjects/YogoHack/Player.h</file>
+            <file>file:/C:/Users/Yogi/Documents/NetBeansProjects/YogoHack/Player.cpp</file>
+            <file>file:/C:/Users/Yogi/Documents/NetBeansProjects/YogoHack/Tile.h</file>
+            <file>file:/C:/Users/Yogi/Documents/NetBeansProjects/YogoHack/Tile.cpp</file>
+            <file>file:/C:/Users/Yogi/Documents/NetBeansProjects/YogoHack/YogoTypes.h</file>
+            <file>file:/C:/Users/Yogi/Documents/NetBeansProjects/YogoHack/Item.h</file>
+            <file>file:/C:/Users/Yogi/Documents/NetBeansProjects/YogoHack/Item.cpp</file>
+            <file>file:/C:/Users/Yogi/Documents/NetBeansProjects/YogoHack/Spell.h</file>
+            <file>file:/C:/Users/Yogi/Documents/NetBeansProjects/YogoHack/Spell.cpp</file>
+        </group>
+    </open-files>
+</project-private>
